@@ -22,7 +22,7 @@ Recorda, per crear el teu repositori:
 
 4. Obre el terminal de Git Bash dins de VS Code.
 
-5. Escriure la següent comanda per anar a C:\:
+5. Escriure la següent comanda per anar a C:\ :
 ###
     cd /c/projectes
 
