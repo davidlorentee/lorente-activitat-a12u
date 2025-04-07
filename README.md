@@ -47,7 +47,8 @@ Vull que hi creis una taula amb ("Els Teus Punts Forts a l'hora de treballar tan
 
 
 
-### Aquí t'adjunto una ajuda de la taula.
+### 
+Aquí t'adjunto una ajuda de la taula.
 |    Solitari   | En equip |
 |---------------|----------|
 |               |          |
