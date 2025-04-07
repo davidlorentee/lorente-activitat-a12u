@@ -9,4 +9,5 @@ L'objectiu d'aquesta activitat de repàs és perquè pugis repassar conceptes de
 ## Crear un nou repositori 
 
 Primer has d'anar al teu perfil de GitHub i creàs un nou repositori per exemple que es digui 
-### Activitat-de-Repàs 
+### 
+    Activitat-de-Repàs 
