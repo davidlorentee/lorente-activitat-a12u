@@ -18,7 +18,7 @@ Recorda, per crear el teu repositori:
 
 2. Per clonar el repositori a la carpeta /c/projectes del teu ordinador.
 
-3. Copia l'enllaç que proporciona GitHub (https://github.com/<el-teu-usuari>/Activitat-de-Repàs).
+3. Copia l'enllaç que proporciona GitHub (https://github.com/< el-teu-usuari >/Activitat-de-Repàs).
 
 4. Obre el terminal de Git Bash dins de VS Code.
 
