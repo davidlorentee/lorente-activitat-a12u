@@ -116,3 +116,7 @@ I axi es fa per possar un enllaç
 ```markdown
 Per crear un usuari al github has d'hanar-hi aquest enllaç https://github.com/
 ```
+
+## Lliruament 
+
+    Has de comparir el teu repositori a "joanpardogine" 
