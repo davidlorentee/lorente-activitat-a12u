@@ -39,3 +39,15 @@ Recorda, per crear el teu repositori:
 8. Crea el fitxer README.md amb les instruccions de l’activitat que has creat.
 
 Ara dins del README.md hauràs de crear els següents conceptes.
+
+## Creació d'una taula
+Ara el que vull que hi fagis és fer una creació d'una taula
+
+Vull que hi creis una taula amb ("Els Teus Punts Forts a l'hora de treballar tant tu sol tant amb equip").
+
+Aquí t'adjunto una ajuda de la taula.
+
+## 
+|    Solitari   | En equip |
+|---------------|----------|
+|               |          |
