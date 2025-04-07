@@ -66,15 +66,18 @@ Instruccions
 
 2. Prepara tots els fitxers modificats per desar-los.
 
-### git add .
+### 
+    git add .
 
 3.  Desa els canvis amb una descripció.
 
-### git commit -m "titol"
+### 
+    git commit -m "titol"
 
 4. Puja aquests canvis al teu dipòsit a GitHub.
 
-### git push -u origin main
+### 
+    git push -u origin main
 
 Conclusió
 
