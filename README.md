@@ -52,3 +52,9 @@ Aquí t'adjunto una ajuda de la taula.
 |    Solitari   | En equip |
 |---------------|----------|
 |               |          |
+
+```markdown
+|    Solitari   | En equip |
+|---------------|----------|
+|               |          |
+```
