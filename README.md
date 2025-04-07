@@ -58,6 +58,27 @@ Un commit guarda els canvis del nostre projecte.
 
 Jo faig un commit a cada titul 
 
+Instruccions 
+
+1. Comprovar l'estat del repositori:
+
+### git status
+
+2. Prepara tots els fitxers modificats per desar-los.
+
+### git add .
+
+3.  Desa els canvis amb una descripció.
+
+### git commit -m "titol"
+
+4. Puja aquests canvis al teu dipòsit a GitHub.
+
+### git push -u origin main
+
+Conclusió
+
+Amb aquestes ordres pots treballar en el teu projecte amb seguretat: veus els canvis, els prepares, els guardes i els puges al núvol. És la base per portar un bon control de versions amb Git i GitHub.
 
 ## Creació d'una taula
 Ara el que vull que hi fagis és fer una creació d'una taula
