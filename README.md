@@ -85,7 +85,7 @@ Conclusió
 Amb aquestes ordres pots treballar en el teu projecte amb seguretat: veus els canvis, els prepares, els guardes i els puges al núvol. És la base per portar un bon control de versions amb Git i GitHub.
 
 ## Recordatori 
-    Has de fer sempre aquests 4 pasos en cas de fer un cambi en el mateix comit, tambe per crearlos 
+Has de fer sempre aquests 4 pasos en cas de fer un cambi en el mateix comit, tambe per crearlos 
 
 ## Creació d'una taula
 Ara el que vull que hi fagis és fer una creació d'una taula
