@@ -62,7 +62,8 @@ Instruccions
 
 1. Comprovar l'estat del repositori:
 
-### git status
+### 
+    git status
 
 2. Prepara tots els fitxers modificats per desar-los.
 
