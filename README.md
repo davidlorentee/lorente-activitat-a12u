@@ -46,14 +46,7 @@ Ara dins del README.md hauràs de crear els següents conceptes.
 El nom del Titul ha da ser "Activitat de Repàs"
 
  Per fer-ho en format de titulo has de posari un "#" 
-
- ## Crear un nou repositori 
-
-Primer has d'anar al teu perfil de GitHub i creàs un nou repositori per exemple que es digui 
-### 
-    Activitat-de-Repàs 
-
-
+ 
 ###
 ```markdown
 # Activitat de Repàs
