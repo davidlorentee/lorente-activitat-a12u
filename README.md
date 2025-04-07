@@ -117,6 +117,6 @@ I axi es fa per possar un enllaç
 Per crear un usuari al github has d'hanar-hi aquest enllaç https://github.com/
 ```
 
-## Lliruament 
+## Lliurament
 
-    Has de comparir el teu repositori a "joanpardogine" 
+Has de comparir el teu repositori a "joanpardogine" 
