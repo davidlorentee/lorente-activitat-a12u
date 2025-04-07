@@ -109,4 +109,10 @@ Aquí t'adjunto una ajuda de la taula.
 ## Ara possarem un enllaç 
 Vas el te README.md
 
-Per crear un usuari al hithub has d'hanar-hi aquest enllaç https://github.com/
+Per crear un usuari al github has d'hanar-hi aquest enllaç https://github.com/
+
+I axi es fa per possar un enllaç
+
+```markdown
+Per crear un usuari al github has d'hanar-hi aquest enllaç https://github.com/
+```
