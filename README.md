@@ -42,8 +42,8 @@ Ara dins del README.md hauràs de crear els següents conceptes.
 
 
 
-## Crerar Titul 
-El nom del Titual ha da ser "Activitat de Repàs"
+## Crerar Titol 
+El nom del Titol ha da ser "Activitat de Repàs"
 
  Per fer-ho en format de titulo has de posari un "#" 
 
