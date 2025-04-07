@@ -45,9 +45,8 @@ Ara el que vull que hi fagis és fer una creació d'una taula
 
 Vull que hi creis una taula amb ("Els Teus Punts Forts a l'hora de treballar tant tu sol tant amb equip").
 
-Aquí t'adjunto una ajuda de la taula.
 
-## 
+## Aquí t'adjunto una ajuda de la taula. 
 |    Solitari   | En equip |
 |---------------|----------|
 |               |          |
