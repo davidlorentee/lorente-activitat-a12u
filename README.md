@@ -106,3 +106,7 @@ Aquí t'adjunto una ajuda de la taula.
 |               |          |
 ```
 
+## Ara possarem un enllaç 
+Vas el te README.md
+
+Per crear un usuari al hithub has d'hanar-hi aquest enllaç https://github.com/
