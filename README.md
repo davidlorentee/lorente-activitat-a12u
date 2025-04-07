@@ -46,13 +46,17 @@ Ara dins del README.md hauràs de crear els següents conceptes.
 El nom del Titul ha da ser "Activitat de Repàs"
 
  Per fer-ho en format de titulo has de posari un "#" 
- 
+
 ###
 ```markdown
 # Activitat de Repàs
 ```
 
+## Fer el commit 
 
+Un commit guarda els canvis del nostre projecte.
+
+Jo faig un commit a cada titul 
 
 
 ## Creació d'una taula
