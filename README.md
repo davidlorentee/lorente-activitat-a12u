@@ -40,6 +40,17 @@ Recorda, per crear el teu repositori:
 
 Ara dins del README.md hauràs de crear els següents conceptes.
 
+## Crerar Titul 
+    El nom del Titual ha da ser "Activitat de Repàs"
+
+    Per fer-ho en format de titulo has de posari un "#" 
+
+###
+```markdown
+    # Activitat de Repàs
+```
+
+
 ## Creació d'una taula
 Ara el que vull que hi fagis és fer una creació d'una taula
 
@@ -58,3 +69,4 @@ Aquí t'adjunto una ajuda de la taula.
 |---------------|----------|
 |               |          |
 ```
+
